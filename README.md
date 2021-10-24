@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 
 
-- 🔭 I'm currently a software engineering student.
+ I'm a software engineering student.
 
